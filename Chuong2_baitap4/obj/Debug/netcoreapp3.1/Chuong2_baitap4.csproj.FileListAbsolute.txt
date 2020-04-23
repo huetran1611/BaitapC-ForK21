@@ -1,0 +1,11 @@
+D:\ViDuC#\Chuong2_baitap4\bin\Debug\netcoreapp3.1\Chuong2_baitap4.exe
+D:\ViDuC#\Chuong2_baitap4\bin\Debug\netcoreapp3.1\Chuong2_baitap4.deps.json
+D:\ViDuC#\Chuong2_baitap4\bin\Debug\netcoreapp3.1\Chuong2_baitap4.runtimeconfig.json
+D:\ViDuC#\Chuong2_baitap4\bin\Debug\netcoreapp3.1\Chuong2_baitap4.runtimeconfig.dev.json
+D:\ViDuC#\Chuong2_baitap4\bin\Debug\netcoreapp3.1\Chuong2_baitap4.dll
+D:\ViDuC#\Chuong2_baitap4\bin\Debug\netcoreapp3.1\Chuong2_baitap4.pdb
+D:\ViDuC#\Chuong2_baitap4\obj\Debug\netcoreapp3.1\Chuong2_baitap4.csprojAssemblyReference.cache
+D:\ViDuC#\Chuong2_baitap4\obj\Debug\netcoreapp3.1\Chuong2_baitap4.AssemblyInfoInputs.cache
+D:\ViDuC#\Chuong2_baitap4\obj\Debug\netcoreapp3.1\Chuong2_baitap4.AssemblyInfo.cs
+D:\ViDuC#\Chuong2_baitap4\obj\Debug\netcoreapp3.1\Chuong2_baitap4.dll
+D:\ViDuC#\Chuong2_baitap4\obj\Debug\netcoreapp3.1\Chuong2_baitap4.pdb

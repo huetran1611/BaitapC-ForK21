@@ -1,0 +1,11 @@
+D:\ViDuC#\Chuong2_Vidu1\bin\Debug\netcoreapp3.1\Chuong2_Vidu1.exe
+D:\ViDuC#\Chuong2_Vidu1\bin\Debug\netcoreapp3.1\Chuong2_Vidu1.deps.json
+D:\ViDuC#\Chuong2_Vidu1\bin\Debug\netcoreapp3.1\Chuong2_Vidu1.runtimeconfig.json
+D:\ViDuC#\Chuong2_Vidu1\bin\Debug\netcoreapp3.1\Chuong2_Vidu1.runtimeconfig.dev.json
+D:\ViDuC#\Chuong2_Vidu1\bin\Debug\netcoreapp3.1\Chuong2_Vidu1.dll
+D:\ViDuC#\Chuong2_Vidu1\bin\Debug\netcoreapp3.1\Chuong2_Vidu1.pdb
+D:\ViDuC#\Chuong2_Vidu1\obj\Debug\netcoreapp3.1\Chuong2_Vidu1.csprojAssemblyReference.cache
+D:\ViDuC#\Chuong2_Vidu1\obj\Debug\netcoreapp3.1\Chuong2_Vidu1.AssemblyInfoInputs.cache
+D:\ViDuC#\Chuong2_Vidu1\obj\Debug\netcoreapp3.1\Chuong2_Vidu1.AssemblyInfo.cs
+D:\ViDuC#\Chuong2_Vidu1\obj\Debug\netcoreapp3.1\Chuong2_Vidu1.dll
+D:\ViDuC#\Chuong2_Vidu1\obj\Debug\netcoreapp3.1\Chuong2_Vidu1.pdb

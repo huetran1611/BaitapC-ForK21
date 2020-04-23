@@ -1,0 +1,11 @@
+D:\ViDuC#\Chuong3_part1_bt5\bin\Debug\netcoreapp3.1\Chuong3_part1_bt5.exe
+D:\ViDuC#\Chuong3_part1_bt5\bin\Debug\netcoreapp3.1\Chuong3_part1_bt5.deps.json
+D:\ViDuC#\Chuong3_part1_bt5\bin\Debug\netcoreapp3.1\Chuong3_part1_bt5.runtimeconfig.json
+D:\ViDuC#\Chuong3_part1_bt5\bin\Debug\netcoreapp3.1\Chuong3_part1_bt5.runtimeconfig.dev.json
+D:\ViDuC#\Chuong3_part1_bt5\bin\Debug\netcoreapp3.1\Chuong3_part1_bt5.dll
+D:\ViDuC#\Chuong3_part1_bt5\bin\Debug\netcoreapp3.1\Chuong3_part1_bt5.pdb
+D:\ViDuC#\Chuong3_part1_bt5\obj\Debug\netcoreapp3.1\Chuong3_part1_bt5.csprojAssemblyReference.cache
+D:\ViDuC#\Chuong3_part1_bt5\obj\Debug\netcoreapp3.1\Chuong3_part1_bt5.AssemblyInfoInputs.cache
+D:\ViDuC#\Chuong3_part1_bt5\obj\Debug\netcoreapp3.1\Chuong3_part1_bt5.AssemblyInfo.cs
+D:\ViDuC#\Chuong3_part1_bt5\obj\Debug\netcoreapp3.1\Chuong3_part1_bt5.dll
+D:\ViDuC#\Chuong3_part1_bt5\obj\Debug\netcoreapp3.1\Chuong3_part1_bt5.pdb
