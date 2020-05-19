@@ -1,0 +1,11 @@
+D:\BaitapC-ForK21\quanlybanhang_1205\bin\Debug\quanlybanhang_1205.exe
+D:\BaitapC-ForK21\quanlybanhang_1205\bin\Debug\quanlybanhang_1205.pdb
+D:\BaitapC-ForK21\quanlybanhang_1205\obj\Debug\quanlybanhang_1205.Form1.resources
+D:\BaitapC-ForK21\quanlybanhang_1205\obj\Debug\quanlybanhang_1205.Properties.Resources.resources
+D:\BaitapC-ForK21\quanlybanhang_1205\obj\Debug\quanlybanhang_1205.csproj.GenerateResource.cache
+D:\BaitapC-ForK21\quanlybanhang_1205\obj\Debug\quanlybanhang_1205.exe
+D:\BaitapC-ForK21\quanlybanhang_1205\obj\Debug\quanlybanhang_1205.pdb
+D:\BaitapC-ForK21\quanlybanhang_1205\obj\Debug\quanlybanhang_1205.csprojAssemblyReference.cache
+D:\BaitapC-ForK21\quanlybanhang_1205\obj\Debug\quanlybanhang_1205.frmChatLieu.resources
+D:\BaitapC-ForK21\quanlybanhang_1205\obj\Debug\quanlybanhang_1205.DMHang.resources
+D:\BaitapC-ForK21\quanlybanhang_1205\obj\Debug\quanlybanhang_1205.frmMain.resources
