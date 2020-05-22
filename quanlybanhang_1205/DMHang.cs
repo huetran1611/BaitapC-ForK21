@@ -44,5 +44,68 @@ namespace quanlybanhang_1205
             cmbChatLieu.ValueMember = "MaChatLieu";
             cmbChatLieu.DisplayMember = "TenChatLieu";
         }
+
+        private void btnThem_Click(object sender, EventArgs e)
+        {
+            txtTenHang.Text = "";
+            txtMaHang.Text = "";
+            txtGiaNhap.Text = "";
+            txtGiaBan.Text = "";
+            txtSoLuong.Text = "";
+            cmbChatLieu.SelectedIndex = -1;
+        }
+
+        private void btnLuu_Click(object sender, EventArgs e)
+        {
+            // kiểm tra dữ liệu 
+            //- Các trường ko được trống
+            if(txtMaHang.Text == "")
+            {
+                MessageBox.Show("Bạn không được để trống mã hàng");
+                txtMaHang.Focus();
+                return;
+            }
+            if(txtTenHang.Text == "")
+            {
+                MessageBox.Show("Bạn không được để trống tên hàng");
+                txtTenHang.Focus();
+                return;
+            }
+            if(cmbChatLieu.SelectedIndex == -1)
+            {
+                MessageBox.Show("Bạn chưa chọn chất liệu");
+                return;
+            }
+            // tương tự check them cho những texbox còn lại
+            // - Mã hàng ko được trùng
+            string sql = "select * from tblHang where Mahang = '" +
+            txtMaHang.Text.Trim() + "'";
+            DAO.OpenConnection();
+            if (DAO.checkKeyExit(sql))
+            {
+                MessageBox.Show("mã hàng đã tồn tại");
+                txtMaHang.Focus();
+                DAO.CloseConnetion();
+                return;
+            }
+            else
+            {
+                sql = "insert into  tblHang (mahang, tenhang, dongianhap,dongiaban, " +
+                    "soluong, machatlieu, anh, ghichu)" +
+                    " values ('" + txtMaHang.Text.Trim() + "',N'"
+                    + txtTenHang.Text.Trim() + "', " + txtGiaNhap.Text + "," +
+                    txtGiaBan.Text.Trim() + "," + txtSoLuong.Text.Trim() + 
+                    ",'"+ cmbChatLieu.SelectedValue.ToString() + "', null, null)";
+                                SqlCommand cmd = new SqlCommand(sql, DAO.conn);
+
+                MessageBox.Show(sql);
+
+                cmd.ExecuteNonQuery();
+                LoadDataToGridView();
+                fillDataToCombo();
+                DAO.CloseConnetion();                               
+
+            }
+        }
     }
 }
