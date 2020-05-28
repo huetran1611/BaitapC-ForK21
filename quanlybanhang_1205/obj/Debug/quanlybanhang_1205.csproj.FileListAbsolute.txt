@@ -9,3 +9,4 @@ D:\BaitapC-ForK21\quanlybanhang_1205\obj\Debug\quanlybanhang_1205.csprojAssembly
 D:\BaitapC-ForK21\quanlybanhang_1205\obj\Debug\quanlybanhang_1205.frmChatLieu.resources
 D:\BaitapC-ForK21\quanlybanhang_1205\obj\Debug\quanlybanhang_1205.DMHang.resources
 D:\BaitapC-ForK21\quanlybanhang_1205\obj\Debug\quanlybanhang_1205.frmMain.resources
+D:\BaitapC-ForK21\quanlybanhang_1205\obj\Debug\quanlybanhang_1205.frmHoaDonBan.resources

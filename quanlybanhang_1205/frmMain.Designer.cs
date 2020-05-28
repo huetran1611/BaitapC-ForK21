@@ -62,14 +62,14 @@
             // dMChatLieuToolStripMenuItem
             // 
             this.dMChatLieuToolStripMenuItem.Name = "dMChatLieuToolStripMenuItem";
-            this.dMChatLieuToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.dMChatLieuToolStripMenuItem.Size = new System.Drawing.Size(177, 26);
             this.dMChatLieuToolStripMenuItem.Text = "DM ChatLieu";
             this.dMChatLieuToolStripMenuItem.Click += new System.EventHandler(this.dMChatLieuToolStripMenuItem_Click);
             // 
             // dMHangToolStripMenuItem
             // 
             this.dMHangToolStripMenuItem.Name = "dMHangToolStripMenuItem";
-            this.dMHangToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.dMHangToolStripMenuItem.Size = new System.Drawing.Size(177, 26);
             this.dMHangToolStripMenuItem.Text = "DMHang";
             this.dMHangToolStripMenuItem.Click += new System.EventHandler(this.dMHangToolStripMenuItem_Click);
             // 
@@ -84,6 +84,7 @@
             this.hóaĐơnBánToolStripMenuItem.Name = "hóaĐơnBánToolStripMenuItem";
             this.hóaĐơnBánToolStripMenuItem.Size = new System.Drawing.Size(112, 24);
             this.hóaĐơnBánToolStripMenuItem.Text = "Hóa Đơn Bán";
+            this.hóaĐơnBánToolStripMenuItem.Click += new System.EventHandler(this.hóaĐơnBánToolStripMenuItem_Click);
             // 
             // frmMain
             // 

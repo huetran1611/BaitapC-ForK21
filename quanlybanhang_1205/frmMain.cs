@@ -32,5 +32,11 @@ namespace quanlybanhang_1205
         {
 
         }
+
+        private void hóaĐơnBánToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmHoaDonBan f1 = new frmHoaDonBan();
+            f1.Show();
+        }
     }
 }
